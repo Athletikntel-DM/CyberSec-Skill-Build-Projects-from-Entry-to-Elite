@@ -64,7 +64,7 @@ Welcome to my GitHub profile! I'm passionate about cybersecurity and building so
 - Improved efficiency by 30% in system management workflows.
 - **[View Project](#)**
 
-### 🌟 Future Projects
+### 🌟 Future Projects [Each project will be updated once completed]
 
 #### 🛠️ Create a Cybersecurity Homelab
 - Build a homelab environment simulating different components of a business network using virtualization or hardware.
@@ -119,14 +119,16 @@ Welcome to my GitHub profile! I'm passionate about cybersecurity and building so
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/Cyber.DMo.png" alt="Your Image Badge" />
+
 ---
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedin)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourtwitter)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23181818.svg?style=for-the-badge&logo=github&logoColor=white)](https://yourportfolio.com)
-[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yourmedium)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23CC0000.svg?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/derick-morrow)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23181818.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Athletikntel-DM/CyberSec-Skill-Build-Projects-from-Entry-to-Elite)
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@DerickMorrow)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23CC0000.svg?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Cyber.DM)
+
 
 ---
