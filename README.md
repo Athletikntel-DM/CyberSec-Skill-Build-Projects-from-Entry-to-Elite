@@ -43,73 +43,10 @@ Welcome to my GitHub profile! I'm passionate about cybersecurity and building so
 
 ---
 
-## 📂 Projects
-
-### 🛡️ Cybersecurity Projects
-
-#### 🔒 **Network Monitoring with Wireshark**
-- Analyzed network packets to detect vulnerabilities and potential threats.
-- Utilized Wireshark to monitor and log suspicious activity.
-- **[View Project](#)**
-
-#### ☁️ **Deploying Secure Workloads on Azure**
-- Designed and deployed a secure virtual network in Azure.
-- Configured firewall rules and ensured compliance with security policies.
-- **[View Project](#)**
-
-### 🛠️ Automation and System Administration
-
-#### 🐧 **Automating Linux System Tasks**
-- Created Bash scripts to automate common administrative tasks on Ubuntu systems.
-- Improved efficiency by 30% in system management workflows.
-- **[View Project](#)**
-
-### 🌟 Future Projects [Each project will be updated once completed]
+## 📂🛡️ Cybersecurity Projects [Each project will be updated once completed]
 
 #### 🛠️ Create a Cybersecurity Homelab
 - Build a homelab environment simulating different components of a business network using virtualization or hardware.
-
-#### 📊 Setup and Manage a SIEM
-- Setup and manage an open-source or free SIEM platform to aggregate, organize, and prioritize security alerts.
-
-#### 🔍 Configure an IDS & IPS
-- Configure an open-source intrusion detection/prevention system, simulate network traffic, and analyze its functionality.
-
-#### 🛡️ Deep Packet Inspection Project
-- Utilize a DPI tool to inspect and ensure only authorized information is transmitted across the network.
-
-#### 💾 Create Secure Backup Plan
-- Research backup plans and create a backup server to securely store important files and documents.
-
-#### 📂 The Secure File Sharing Service
-- Configure and use a secure file sharing service, like SFTP, for secure file transfers.
-
-#### 🕵️ Investigate Open Source Incident Response Tools
-- Configure an open-source incident response tool to monitor the network and alert for potential security events.
-
-#### 🔒 Create a VPN Server
-- Simulate a corporate VPN setup in a homelab environment using OpenVPN.
-
-#### 🌐 Setup and Manage an Open Source Firewall
-- Setup and configure an open-source firewall, such as PFsense, to filter malicious and unwanted connections.
-
-#### 🖥️ Setup a Web Server
-- Create a web server using Apache and implement security best practices to harden it.
-
-#### 📡 DNS Server & Security
-- Research DNS attacks, build a small-scale DNS server, and secure it against threats.
-
-#### 🎯 Honeypot Testing
-- Setup an open-source honeypot to detect and analyze unauthorized access attempts.
-
-#### 🔍 Nmap Tool & Scanning
-- Use Nmap to scan and identify hosts and services on a network of vulnerable machines.
-
-#### 🔧 Configure a Vulnerability Scanner
-- Setup a vulnerability scanner, create a network of vulnerable hosts, and identify security gaps.
-
-#### 📈 Create a SIEM with the Open-Source ELK Stack
-- Develop a security dashboard using the ELK stack to display and analyze security alerts.
 
 ---
 
