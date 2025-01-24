@@ -45,14 +45,14 @@ Welcome to my GitHub profile! I'm passionate about cybersecurity and building so
 
 ## 📂🛡️ Cybersecurity Projects [Each project will be updated once completed]
 
-| ID  | Title                                      | Reference | Example |
+| ID  | Title                                      | Reference | Status |
 |-----|--------------------------------------------|-----------|---------|
-| 1   | 🛠️ Create a Cybersecurity Homelab         | [Link]()  | ❌       |
-| 2   | Setup and Manage a SIEM                    | [Link]()  | ❌       |
-| 3   | Configure an IDS & IPS                     | [Link]()  | ❌       |
-| 4   | Deep Packet Inspection Project             | [Link]()  | ❌       |
-| 5   | Create Secure Backup Plan                  | [Link]()  | ❌       |
-| 6   | The Secure File Sharing Service            | [Link]()  | ❌       |
+| 1   | 🛠️ Create a Cybersecurity Homelab         |   | To Do: 🗒️  |
+| 2   | Setup and Manage a SIEM                    |   | To Do: 🗒️  |
+| 3   | Configure an IDS & IPS                     |  | To Do: 🗒️  |
+| 4   | Deep Packet Inspection Project             |   | To Do: 🗒️  |
+| 5   | Create Secure Backup Plan                  |  | To Do: 🗒️  |
+| 6   | The Secure File Sharing Service            |  | To Do: 🗒️  |
 
 
 ---
