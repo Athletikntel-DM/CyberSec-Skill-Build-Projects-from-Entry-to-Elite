@@ -45,8 +45,15 @@ Welcome to my GitHub profile! I'm passionate about cybersecurity and building so
 
 ## 📂🛡️ Cybersecurity Projects [Each project will be updated once completed]
 
-#### 🛠️ Create a Cybersecurity Homelab
-- Build a homelab environment simulating different components of a business network using virtualization or hardware.
+| ID  | Title                                      | Reference | Example |
+|-----|--------------------------------------------|-----------|---------|
+| 1   | 🛠️ Create a Cybersecurity Homelab         | [Link]()  | ❌       |
+| 2   | Setup and Manage a SIEM                    | [Link]()  | ❌       |
+| 3   | Configure an IDS & IPS                     | [Link]()  | ❌       |
+| 4   | Deep Packet Inspection Project             | [Link]()  | ❌       |
+| 5   | Create Secure Backup Plan                  | [Link]()  | ❌       |
+| 6   | The Secure File Sharing Service            | [Link]()  | ❌       |
+
 
 ---
 
