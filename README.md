@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm passionate about cybersecurity and building so
 - 🎓 **Cybersecurity Student** focused on network security, threat analysis, and system hardening.
 - 💻 Exploring technologies like **Azure**, **Linux**, and **Wireshark**.
 - 🛠️ Skilled in **Bash scripting**, **Ubuntu administration**, and troubleshooting network vulnerabilities.
-- 🌱 Always learning and growing in the ever-evolving field of cybersecurity.
+- Always learning and growing in the ever-evolving field of cybersecurity.
 
 ---
 
