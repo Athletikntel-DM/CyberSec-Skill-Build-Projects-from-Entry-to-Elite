@@ -67,12 +67,6 @@ Welcome to my GitHub profile! I'm passionate about cybersecurity and building so
 ---
 
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Athletikntel-DM&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Athletikntel-DM&layout=compact&theme=radical)
-
 ## 🛡️ TryHackMe Badge
 <img src="https://tryhackme-badges.s3.amazonaws.com/Cyber.DMo.png" alt="Your Image Badge" />
 
